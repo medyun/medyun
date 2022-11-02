@@ -16,7 +16,7 @@
 
 # &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [https://blog.hkucuk.me ](https://blog.hkucuk.me/).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [https://blog.hkucuk.com ](https://blog.hkucuk.com/).
 
 <br>
 
@@ -42,6 +42,17 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![SummitDB](https://img.shields.io/badge/-SummitDb-black?style=flat-square&logo=DataCamp&logoColor=white)
 ![Sql](https://img.shields.io/badge/-Sql-darkblue?style=flat-square&logo=Slides&logoColor=white)
 
+
+<br>
+
+# &#x270d; Some Badge and Certificates
+
+<img src="https://github.com/medyun/medyun/blob/main/badges.png?raw=true" alt="Hüseyin Küçük Badges" />
+
+<img src="https://github.com/medyun/medyun/blob/main/skills.png?raw=true" alt="Hüseyin Küçük Skills" />
+
+<br>
+
 <!--
 ![](https://github-readme-stats.vercel.app/api?include_all_commits=true&hide_title=true&username=medyun&count_private=true&show_icons=true&theme=graywhite) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=medyun&layout=compact)
 -->
@@ -63,3 +74,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [3]: https://www.linkedin.com/in/medyun/
 [4]: https://stackoverflow.com/users/1689816/hkucuk
 [5]: mailto:huseyin.kcuk@gmail.com
+
+<!--
+
+https://shields.io/
+https://simpleicons.org
+
+-->
