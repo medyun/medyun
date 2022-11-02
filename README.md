@@ -45,7 +45,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <br>
 
-# &#x270d; Some Badge and Certificates
+# &#x270d; Some Badges and Certificates
 
 <img src="https://github.com/medyun/medyun/blob/main/badges.png?raw=true" alt="Hüseyin Küçük Badges" />
 
