@@ -71,7 +71,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 [1]: https://twitter.com/medyun
 [2]: https://github.com/medyun
-[3]: https://www.linkedin.com/in/medyun/
+[3]: https://www.linkedin.com/in/huseyinkucuk/
 [4]: https://stackoverflow.com/users/1689816/hkucuk
 [5]: mailto:huseyin.kcuk@gmail.com
 
