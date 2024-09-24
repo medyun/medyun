@@ -8,7 +8,7 @@
 
 <br>
 
-- 🌱 I'm a Team Lead at **<a class="link-2 light" href="http://www.masomo.com" target="_blank">Masomo Gaming</a>**
+- 🌱 I'm a Head of Back-End at **<a class="link-2 light" href="http://www.masomo.com" target="_blank">Masomo Gaming</a>**
 - 🔭 I used to be a partner and CTO in **<a class="link-2 light" href="https://www.instagram.com/benzinlitre/" target="_blank">BenzinLitre</a>**
 - 💬 I enjoy using **GoLang**, **Php** and **Javascript** in my projects
 
