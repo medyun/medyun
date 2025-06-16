@@ -8,7 +8,8 @@
 
 <br>
 
-- 🌱 I'm Head of Back-End at **<a class="link-2 light" href="http://www.masomo.com" target="_blank">Masomo Gaming</a>**
+- 🚀 I am Head of Technology at **<a class="link-2 light" href="https://udogames.com/" target="_blank">Udo Games</a>**
+- 🌱 I was Team Lead at **<a class="link-2 light" href="http://www.masomo.com" target="_blank">Masomo Gaming</a>**
 - 🔭 I used to be a partner and CTO in **<a class="link-2 light" href="https://www.instagram.com/benzinlitre/" target="_blank">BenzinLitre</a>**
 - 💬 I enjoy using **GoLang**, **Php** and **Javascript** in my projects
 
@@ -79,5 +80,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 https://shields.io/
 https://simpleicons.org
+https://www.emojiall.com/tr
 
 -->
