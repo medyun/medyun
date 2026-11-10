@@ -18,7 +18,7 @@
 
 # &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [https://blog.hkucuk.com](https://blog.hkucuk.com/en/).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [https://blog.hkucuk.us.ci](https://blog.hkucuk.us.cim/en/).
 
 <br>
 
